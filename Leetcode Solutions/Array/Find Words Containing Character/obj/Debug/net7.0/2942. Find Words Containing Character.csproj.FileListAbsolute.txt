@@ -1,0 +1,15 @@
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/2942. Find Words Containing Character/bin/Debug/net7.0/2942. Find Words Containing Character
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/2942. Find Words Containing Character/bin/Debug/net7.0/2942. Find Words Containing Character.deps.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/2942. Find Words Containing Character/bin/Debug/net7.0/2942. Find Words Containing Character.runtimeconfig.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/2942. Find Words Containing Character/bin/Debug/net7.0/2942. Find Words Containing Character.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/2942. Find Words Containing Character/bin/Debug/net7.0/2942. Find Words Containing Character.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/2942. Find Words Containing Character/obj/Debug/net7.0/2942. Find Words Containing Character.csproj.AssemblyReference.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/2942. Find Words Containing Character/obj/Debug/net7.0/2942. Find Words Containing Character.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/2942. Find Words Containing Character/obj/Debug/net7.0/2942. Find Words Containing Character.AssemblyInfoInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/2942. Find Words Containing Character/obj/Debug/net7.0/2942. Find Words Containing Character.AssemblyInfo.cs
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/2942. Find Words Containing Character/obj/Debug/net7.0/2942. Find Words Containing Character.csproj.CoreCompileInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/2942. Find Words Containing Character/obj/Debug/net7.0/2942. Find Words Containing Character.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/2942. Find Words Containing Character/obj/Debug/net7.0/refint/2942. Find Words Containing Character.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/2942. Find Words Containing Character/obj/Debug/net7.0/2942. Find Words Containing Character.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/2942. Find Words Containing Character/obj/Debug/net7.0/2942. Find Words Containing Character.genruntimeconfig.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/2942. Find Words Containing Character/obj/Debug/net7.0/ref/2942. Find Words Containing Character.dll

@@ -1,0 +1,15 @@
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Remove Trailing Zeros From a String/bin/Debug/net7.0/Remove Trailing Zeros From a String
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Remove Trailing Zeros From a String/bin/Debug/net7.0/Remove Trailing Zeros From a String.deps.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Remove Trailing Zeros From a String/bin/Debug/net7.0/Remove Trailing Zeros From a String.runtimeconfig.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Remove Trailing Zeros From a String/bin/Debug/net7.0/Remove Trailing Zeros From a String.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Remove Trailing Zeros From a String/bin/Debug/net7.0/Remove Trailing Zeros From a String.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Remove Trailing Zeros From a String/obj/Debug/net7.0/Remove Trailing Zeros From a String.csproj.AssemblyReference.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Remove Trailing Zeros From a String/obj/Debug/net7.0/Remove Trailing Zeros From a String.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Remove Trailing Zeros From a String/obj/Debug/net7.0/Remove Trailing Zeros From a String.AssemblyInfoInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Remove Trailing Zeros From a String/obj/Debug/net7.0/Remove Trailing Zeros From a String.AssemblyInfo.cs
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Remove Trailing Zeros From a String/obj/Debug/net7.0/Remove Trailing Zeros From a String.csproj.CoreCompileInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Remove Trailing Zeros From a String/obj/Debug/net7.0/Remove Trailing Zeros From a String.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Remove Trailing Zeros From a String/obj/Debug/net7.0/refint/Remove Trailing Zeros From a String.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Remove Trailing Zeros From a String/obj/Debug/net7.0/Remove Trailing Zeros From a String.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Remove Trailing Zeros From a String/obj/Debug/net7.0/Remove Trailing Zeros From a String.genruntimeconfig.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Remove Trailing Zeros From a String/obj/Debug/net7.0/ref/Remove Trailing Zeros From a String.dll

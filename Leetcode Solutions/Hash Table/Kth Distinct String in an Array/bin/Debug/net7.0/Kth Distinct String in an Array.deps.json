@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Kth Distinct String in an Array/1.0.0": {
+        "runtime": {
+          "Kth Distinct String in an Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kth Distinct String in an Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

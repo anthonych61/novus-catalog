@@ -1,0 +1,15 @@
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Check if the Sentence Is Pangram/obj/Debug/net5.0/Check if the Sentence Is Pangram.csproj.AssemblyReference.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Check if the Sentence Is Pangram/obj/Debug/net5.0/Check if the Sentence Is Pangram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Check if the Sentence Is Pangram/obj/Debug/net5.0/Check if the Sentence Is Pangram.AssemblyInfoInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Check if the Sentence Is Pangram/obj/Debug/net5.0/Check if the Sentence Is Pangram.AssemblyInfo.cs
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Check if the Sentence Is Pangram/obj/Debug/net5.0/Check if the Sentence Is Pangram.csproj.CoreCompileInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Check if the Sentence Is Pangram/bin/Debug/net5.0/Check if the Sentence Is Pangram.deps.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Check if the Sentence Is Pangram/bin/Debug/net5.0/Check if the Sentence Is Pangram.runtimeconfig.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Check if the Sentence Is Pangram/bin/Debug/net5.0/Check if the Sentence Is Pangram.runtimeconfig.dev.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Check if the Sentence Is Pangram/bin/Debug/net5.0/Check if the Sentence Is Pangram.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Check if the Sentence Is Pangram/bin/Debug/net5.0/ref/Check if the Sentence Is Pangram.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Check if the Sentence Is Pangram/bin/Debug/net5.0/Check if the Sentence Is Pangram.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Check if the Sentence Is Pangram/obj/Debug/net5.0/Check if the Sentence Is Pangram.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Check if the Sentence Is Pangram/obj/Debug/net5.0/ref/Check if the Sentence Is Pangram.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Check if the Sentence Is Pangram/obj/Debug/net5.0/Check if the Sentence Is Pangram.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Check if the Sentence Is Pangram/obj/Debug/net5.0/Check if the Sentence Is Pangram.genruntimeconfig.cache

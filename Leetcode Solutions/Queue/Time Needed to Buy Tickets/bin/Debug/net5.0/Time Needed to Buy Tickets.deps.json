@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Time Needed to Buy Tickets/1.0.0": {
+        "runtime": {
+          "Time Needed to Buy Tickets.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Time Needed to Buy Tickets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

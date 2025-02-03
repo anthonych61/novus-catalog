@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+0yq4qA8Sg18cPggmtmVKcezV10xc/GSiPhATsI+nUIl7KUpj8bQPocwlhYRieEjhTe+0ZHE/HXkS1wCNkcokA==",
+  "success": true,
+  "projectFilePath": "/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Contains Duplicate/Contains Duplicate.csproj",
+  "expectedPackageFiles": [
+    "/Users/cherrys/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.31/microsoft.netcore.app.host.osx-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

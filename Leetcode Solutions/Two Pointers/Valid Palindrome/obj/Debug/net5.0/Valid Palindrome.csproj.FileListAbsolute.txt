@@ -1,0 +1,15 @@
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome/bin/Debug/net5.0/Valid Palindrome.deps.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome/bin/Debug/net5.0/Valid Palindrome.runtimeconfig.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome/bin/Debug/net5.0/Valid Palindrome.runtimeconfig.dev.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome/bin/Debug/net5.0/Valid Palindrome.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome/bin/Debug/net5.0/ref/Valid Palindrome.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome/bin/Debug/net5.0/Valid Palindrome.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome/obj/Debug/net5.0/Valid Palindrome.csproj.AssemblyReference.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome/obj/Debug/net5.0/Valid Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome/obj/Debug/net5.0/Valid Palindrome.AssemblyInfoInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome/obj/Debug/net5.0/Valid Palindrome.AssemblyInfo.cs
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome/obj/Debug/net5.0/Valid Palindrome.csproj.CoreCompileInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome/obj/Debug/net5.0/Valid Palindrome.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome/obj/Debug/net5.0/ref/Valid Palindrome.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome/obj/Debug/net5.0/Valid Palindrome.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome/obj/Debug/net5.0/Valid Palindrome.genruntimeconfig.cache

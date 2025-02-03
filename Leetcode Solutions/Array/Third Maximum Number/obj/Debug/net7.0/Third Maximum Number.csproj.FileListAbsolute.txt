@@ -1,0 +1,15 @@
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Third Maximum Number/bin/Debug/net7.0/Third Maximum Number
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Third Maximum Number/bin/Debug/net7.0/Third Maximum Number.deps.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Third Maximum Number/bin/Debug/net7.0/Third Maximum Number.runtimeconfig.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Third Maximum Number/bin/Debug/net7.0/Third Maximum Number.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Third Maximum Number/bin/Debug/net7.0/Third Maximum Number.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Third Maximum Number/obj/Debug/net7.0/Third Maximum Number.csproj.AssemblyReference.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Third Maximum Number/obj/Debug/net7.0/Third Maximum Number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Third Maximum Number/obj/Debug/net7.0/Third Maximum Number.AssemblyInfoInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Third Maximum Number/obj/Debug/net7.0/Third Maximum Number.AssemblyInfo.cs
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Third Maximum Number/obj/Debug/net7.0/Third Maximum Number.csproj.CoreCompileInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Third Maximum Number/obj/Debug/net7.0/Third Maximum Number.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Third Maximum Number/obj/Debug/net7.0/refint/Third Maximum Number.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Third Maximum Number/obj/Debug/net7.0/Third Maximum Number.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Third Maximum Number/obj/Debug/net7.0/Third Maximum Number.genruntimeconfig.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Third Maximum Number/obj/Debug/net7.0/ref/Third Maximum Number.dll

@@ -1,0 +1,15 @@
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Time Needed to Buy Tickets/bin/Debug/net5.0/Time Needed to Buy Tickets.deps.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Time Needed to Buy Tickets/bin/Debug/net5.0/Time Needed to Buy Tickets.runtimeconfig.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Time Needed to Buy Tickets/bin/Debug/net5.0/Time Needed to Buy Tickets.runtimeconfig.dev.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Time Needed to Buy Tickets/bin/Debug/net5.0/Time Needed to Buy Tickets.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Time Needed to Buy Tickets/bin/Debug/net5.0/ref/Time Needed to Buy Tickets.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Time Needed to Buy Tickets/bin/Debug/net5.0/Time Needed to Buy Tickets.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Time Needed to Buy Tickets/obj/Debug/net5.0/Time Needed to Buy Tickets.csproj.AssemblyReference.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Time Needed to Buy Tickets/obj/Debug/net5.0/Time Needed to Buy Tickets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Time Needed to Buy Tickets/obj/Debug/net5.0/Time Needed to Buy Tickets.AssemblyInfoInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Time Needed to Buy Tickets/obj/Debug/net5.0/Time Needed to Buy Tickets.AssemblyInfo.cs
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Time Needed to Buy Tickets/obj/Debug/net5.0/Time Needed to Buy Tickets.csproj.CoreCompileInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Time Needed to Buy Tickets/obj/Debug/net5.0/Time Needed to Buy Tickets.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Time Needed to Buy Tickets/obj/Debug/net5.0/ref/Time Needed to Buy Tickets.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Time Needed to Buy Tickets/obj/Debug/net5.0/Time Needed to Buy Tickets.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Time Needed to Buy Tickets/obj/Debug/net5.0/Time Needed to Buy Tickets.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Reverse Prefix of Word/bin/Debug/net5.0/Reverse Prefix of Word.deps.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Reverse Prefix of Word/bin/Debug/net5.0/Reverse Prefix of Word.runtimeconfig.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Reverse Prefix of Word/bin/Debug/net5.0/Reverse Prefix of Word.runtimeconfig.dev.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Reverse Prefix of Word/bin/Debug/net5.0/Reverse Prefix of Word.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Reverse Prefix of Word/bin/Debug/net5.0/ref/Reverse Prefix of Word.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Reverse Prefix of Word/bin/Debug/net5.0/Reverse Prefix of Word.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Reverse Prefix of Word/obj/Debug/net5.0/Reverse Prefix of Word.csproj.AssemblyReference.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Reverse Prefix of Word/obj/Debug/net5.0/Reverse Prefix of Word.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Reverse Prefix of Word/obj/Debug/net5.0/Reverse Prefix of Word.AssemblyInfoInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Reverse Prefix of Word/obj/Debug/net5.0/Reverse Prefix of Word.AssemblyInfo.cs
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Reverse Prefix of Word/obj/Debug/net5.0/Reverse Prefix of Word.csproj.CoreCompileInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Reverse Prefix of Word/obj/Debug/net5.0/Reverse Prefix of Word.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Reverse Prefix of Word/obj/Debug/net5.0/ref/Reverse Prefix of Word.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Reverse Prefix of Word/obj/Debug/net5.0/Reverse Prefix of Word.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Reverse Prefix of Word/obj/Debug/net5.0/Reverse Prefix of Word.genruntimeconfig.cache

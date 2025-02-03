@@ -1,0 +1,15 @@
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Stack/Remove All Adjacent Duplicates in String II/bin/Debug/net5.0/Remove All Adjacent Duplicates in String II.deps.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Stack/Remove All Adjacent Duplicates in String II/bin/Debug/net5.0/Remove All Adjacent Duplicates in String II.runtimeconfig.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Stack/Remove All Adjacent Duplicates in String II/bin/Debug/net5.0/Remove All Adjacent Duplicates in String II.runtimeconfig.dev.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Stack/Remove All Adjacent Duplicates in String II/bin/Debug/net5.0/Remove All Adjacent Duplicates in String II.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Stack/Remove All Adjacent Duplicates in String II/bin/Debug/net5.0/ref/Remove All Adjacent Duplicates in String II.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Stack/Remove All Adjacent Duplicates in String II/bin/Debug/net5.0/Remove All Adjacent Duplicates in String II.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Stack/Remove All Adjacent Duplicates in String II/obj/Debug/net5.0/Remove All Adjacent Duplicates in String II.csproj.AssemblyReference.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Stack/Remove All Adjacent Duplicates in String II/obj/Debug/net5.0/Remove All Adjacent Duplicates in String II.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Stack/Remove All Adjacent Duplicates in String II/obj/Debug/net5.0/Remove All Adjacent Duplicates in String II.AssemblyInfoInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Stack/Remove All Adjacent Duplicates in String II/obj/Debug/net5.0/Remove All Adjacent Duplicates in String II.AssemblyInfo.cs
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Stack/Remove All Adjacent Duplicates in String II/obj/Debug/net5.0/Remove All Adjacent Duplicates in String II.csproj.CoreCompileInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Stack/Remove All Adjacent Duplicates in String II/obj/Debug/net5.0/Remove All Adjacent Duplicates in String II.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Stack/Remove All Adjacent Duplicates in String II/obj/Debug/net5.0/ref/Remove All Adjacent Duplicates in String II.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Stack/Remove All Adjacent Duplicates in String II/obj/Debug/net5.0/Remove All Adjacent Duplicates in String II.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Stack/Remove All Adjacent Duplicates in String II/obj/Debug/net5.0/Remove All Adjacent Duplicates in String II.genruntimeconfig.cache

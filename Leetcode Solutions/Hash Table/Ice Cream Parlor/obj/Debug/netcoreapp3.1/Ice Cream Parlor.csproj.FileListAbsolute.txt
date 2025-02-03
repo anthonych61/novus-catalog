@@ -1,0 +1,10 @@
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Ice Cream Parlor/bin/Debug/netcoreapp3.1/Ice Cream Parlor.deps.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Ice Cream Parlor/bin/Debug/netcoreapp3.1/Ice Cream Parlor.runtimeconfig.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Ice Cream Parlor/bin/Debug/netcoreapp3.1/Ice Cream Parlor.runtimeconfig.dev.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Ice Cream Parlor/bin/Debug/netcoreapp3.1/Ice Cream Parlor.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Ice Cream Parlor/bin/Debug/netcoreapp3.1/Ice Cream Parlor.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Ice Cream Parlor/obj/Debug/netcoreapp3.1/Ice Cream Parlor.csprojAssemblyReference.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Ice Cream Parlor/obj/Debug/netcoreapp3.1/Ice Cream Parlor.AssemblyInfoInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Ice Cream Parlor/obj/Debug/netcoreapp3.1/Ice Cream Parlor.AssemblyInfo.cs
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Ice Cream Parlor/obj/Debug/netcoreapp3.1/Ice Cream Parlor.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Ice Cream Parlor/obj/Debug/netcoreapp3.1/Ice Cream Parlor.pdb

@@ -1,0 +1,15 @@
+/Users/cherrys/Desktop/Valid Parentheses/bin/Debug/net5.0/Valid Parentheses.deps.json
+/Users/cherrys/Desktop/Valid Parentheses/bin/Debug/net5.0/Valid Parentheses.runtimeconfig.json
+/Users/cherrys/Desktop/Valid Parentheses/bin/Debug/net5.0/Valid Parentheses.runtimeconfig.dev.json
+/Users/cherrys/Desktop/Valid Parentheses/bin/Debug/net5.0/Valid Parentheses.dll
+/Users/cherrys/Desktop/Valid Parentheses/bin/Debug/net5.0/ref/Valid Parentheses.dll
+/Users/cherrys/Desktop/Valid Parentheses/bin/Debug/net5.0/Valid Parentheses.pdb
+/Users/cherrys/Desktop/Valid Parentheses/obj/Debug/net5.0/Valid Parentheses.csproj.AssemblyReference.cache
+/Users/cherrys/Desktop/Valid Parentheses/obj/Debug/net5.0/Valid Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherrys/Desktop/Valid Parentheses/obj/Debug/net5.0/Valid Parentheses.AssemblyInfoInputs.cache
+/Users/cherrys/Desktop/Valid Parentheses/obj/Debug/net5.0/Valid Parentheses.AssemblyInfo.cs
+/Users/cherrys/Desktop/Valid Parentheses/obj/Debug/net5.0/Valid Parentheses.csproj.CoreCompileInputs.cache
+/Users/cherrys/Desktop/Valid Parentheses/obj/Debug/net5.0/Valid Parentheses.dll
+/Users/cherrys/Desktop/Valid Parentheses/obj/Debug/net5.0/ref/Valid Parentheses.dll
+/Users/cherrys/Desktop/Valid Parentheses/obj/Debug/net5.0/Valid Parentheses.pdb
+/Users/cherrys/Desktop/Valid Parentheses/obj/Debug/net5.0/Valid Parentheses.genruntimeconfig.cache

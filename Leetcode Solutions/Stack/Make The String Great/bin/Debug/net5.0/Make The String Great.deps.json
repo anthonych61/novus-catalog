@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Make The String Great/1.0.0": {
+        "runtime": {
+          "Make The String Great.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Make The String Great/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

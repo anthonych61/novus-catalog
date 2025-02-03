@@ -1,0 +1,15 @@
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Search Insert Position/bin/Debug/net5.0/Search Insert Position.deps.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Search Insert Position/bin/Debug/net5.0/Search Insert Position.runtimeconfig.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Search Insert Position/bin/Debug/net5.0/Search Insert Position.runtimeconfig.dev.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Search Insert Position/bin/Debug/net5.0/Search Insert Position.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Search Insert Position/bin/Debug/net5.0/ref/Search Insert Position.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Search Insert Position/bin/Debug/net5.0/Search Insert Position.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Search Insert Position/obj/Debug/net5.0/Search Insert Position.csproj.AssemblyReference.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Search Insert Position/obj/Debug/net5.0/Search Insert Position.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Search Insert Position/obj/Debug/net5.0/Search Insert Position.AssemblyInfoInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Search Insert Position/obj/Debug/net5.0/Search Insert Position.AssemblyInfo.cs
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Search Insert Position/obj/Debug/net5.0/Search Insert Position.csproj.CoreCompileInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Search Insert Position/obj/Debug/net5.0/Search Insert Position.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Search Insert Position/obj/Debug/net5.0/ref/Search Insert Position.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Search Insert Position/obj/Debug/net5.0/Search Insert Position.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Binary Search/Search Insert Position/obj/Debug/net5.0/Search Insert Position.genruntimeconfig.cache

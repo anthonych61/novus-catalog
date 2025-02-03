@@ -1,0 +1,15 @@
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Sort the People/bin/Debug/net7.0/Sort the People
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Sort the People/bin/Debug/net7.0/Sort the People.deps.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Sort the People/bin/Debug/net7.0/Sort the People.runtimeconfig.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Sort the People/bin/Debug/net7.0/Sort the People.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Sort the People/bin/Debug/net7.0/Sort the People.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Sort the People/obj/Debug/net7.0/Sort the People.csproj.AssemblyReference.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Sort the People/obj/Debug/net7.0/Sort the People.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Sort the People/obj/Debug/net7.0/Sort the People.AssemblyInfoInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Sort the People/obj/Debug/net7.0/Sort the People.AssemblyInfo.cs
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Sort the People/obj/Debug/net7.0/Sort the People.csproj.CoreCompileInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Sort the People/obj/Debug/net7.0/Sort the People.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Sort the People/obj/Debug/net7.0/refint/Sort the People.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Sort the People/obj/Debug/net7.0/Sort the People.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Sort the People/obj/Debug/net7.0/Sort the People.genruntimeconfig.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Array/Sort the People/obj/Debug/net7.0/ref/Sort the People.dll

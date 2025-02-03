@@ -1,0 +1,15 @@
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Find First Palindromic String in the Array/bin/Debug/net7.0/Find First Palindromic String in the Array
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Find First Palindromic String in the Array/bin/Debug/net7.0/Find First Palindromic String in the Array.deps.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Find First Palindromic String in the Array/bin/Debug/net7.0/Find First Palindromic String in the Array.runtimeconfig.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Find First Palindromic String in the Array/bin/Debug/net7.0/Find First Palindromic String in the Array.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Find First Palindromic String in the Array/bin/Debug/net7.0/Find First Palindromic String in the Array.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Find First Palindromic String in the Array/obj/Debug/net7.0/Find First Palindromic String in the Array.csproj.AssemblyReference.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Find First Palindromic String in the Array/obj/Debug/net7.0/Find First Palindromic String in the Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Find First Palindromic String in the Array/obj/Debug/net7.0/Find First Palindromic String in the Array.AssemblyInfoInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Find First Palindromic String in the Array/obj/Debug/net7.0/Find First Palindromic String in the Array.AssemblyInfo.cs
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Find First Palindromic String in the Array/obj/Debug/net7.0/Find First Palindromic String in the Array.csproj.CoreCompileInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Find First Palindromic String in the Array/obj/Debug/net7.0/Find First Palindromic String in the Array.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Find First Palindromic String in the Array/obj/Debug/net7.0/refint/Find First Palindromic String in the Array.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Find First Palindromic String in the Array/obj/Debug/net7.0/Find First Palindromic String in the Array.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Find First Palindromic String in the Array/obj/Debug/net7.0/Find First Palindromic String in the Array.genruntimeconfig.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Find First Palindromic String in the Array/obj/Debug/net7.0/ref/Find First Palindromic String in the Array.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Number of Students Unable to Eat Lunch/1.0.0": {
+        "runtime": {
+          "Number of Students Unable to Eat Lunch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Number of Students Unable to Eat Lunch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

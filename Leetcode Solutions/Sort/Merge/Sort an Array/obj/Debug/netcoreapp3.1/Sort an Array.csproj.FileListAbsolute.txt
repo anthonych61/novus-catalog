@@ -1,0 +1,10 @@
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Sort/Merge/Sort an Array/obj/Debug/netcoreapp3.1/Sort an Array.csprojAssemblyReference.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Sort/Merge/Sort an Array/obj/Debug/netcoreapp3.1/Sort an Array.AssemblyInfoInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Sort/Merge/Sort an Array/obj/Debug/netcoreapp3.1/Sort an Array.AssemblyInfo.cs
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Sort/Merge/Sort an Array/bin/Debug/netcoreapp3.1/Sort an Array.deps.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Sort/Merge/Sort an Array/bin/Debug/netcoreapp3.1/Sort an Array.runtimeconfig.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Sort/Merge/Sort an Array/bin/Debug/netcoreapp3.1/Sort an Array.runtimeconfig.dev.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Sort/Merge/Sort an Array/bin/Debug/netcoreapp3.1/Sort an Array.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Sort/Merge/Sort an Array/bin/Debug/netcoreapp3.1/Sort an Array.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Sort/Merge/Sort an Array/obj/Debug/netcoreapp3.1/Sort an Array.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Sort/Merge/Sort an Array/obj/Debug/netcoreapp3.1/Sort an Array.pdb

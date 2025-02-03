@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Count Elements With Maximum Frequency/1.0.0": {
+        "runtime": {
+          "Count Elements With Maximum Frequency.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Count Elements With Maximum Frequency/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

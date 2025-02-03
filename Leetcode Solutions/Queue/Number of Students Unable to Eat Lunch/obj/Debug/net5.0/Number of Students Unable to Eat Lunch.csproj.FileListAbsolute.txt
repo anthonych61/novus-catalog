@@ -1,0 +1,15 @@
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Number of Students Unable to Eat Lunch/bin/Debug/net5.0/Number of Students Unable to Eat Lunch.deps.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Number of Students Unable to Eat Lunch/bin/Debug/net5.0/Number of Students Unable to Eat Lunch.runtimeconfig.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Number of Students Unable to Eat Lunch/bin/Debug/net5.0/Number of Students Unable to Eat Lunch.runtimeconfig.dev.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Number of Students Unable to Eat Lunch/bin/Debug/net5.0/Number of Students Unable to Eat Lunch.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Number of Students Unable to Eat Lunch/bin/Debug/net5.0/ref/Number of Students Unable to Eat Lunch.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Number of Students Unable to Eat Lunch/bin/Debug/net5.0/Number of Students Unable to Eat Lunch.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Number of Students Unable to Eat Lunch/obj/Debug/net5.0/Number of Students Unable to Eat Lunch.csproj.AssemblyReference.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Number of Students Unable to Eat Lunch/obj/Debug/net5.0/Number of Students Unable to Eat Lunch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Number of Students Unable to Eat Lunch/obj/Debug/net5.0/Number of Students Unable to Eat Lunch.AssemblyInfoInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Number of Students Unable to Eat Lunch/obj/Debug/net5.0/Number of Students Unable to Eat Lunch.AssemblyInfo.cs
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Number of Students Unable to Eat Lunch/obj/Debug/net5.0/Number of Students Unable to Eat Lunch.csproj.CoreCompileInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Number of Students Unable to Eat Lunch/obj/Debug/net5.0/Number of Students Unable to Eat Lunch.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Number of Students Unable to Eat Lunch/obj/Debug/net5.0/ref/Number of Students Unable to Eat Lunch.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Number of Students Unable to Eat Lunch/obj/Debug/net5.0/Number of Students Unable to Eat Lunch.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Queue/Number of Students Unable to Eat Lunch/obj/Debug/net5.0/Number of Students Unable to Eat Lunch.genruntimeconfig.cache

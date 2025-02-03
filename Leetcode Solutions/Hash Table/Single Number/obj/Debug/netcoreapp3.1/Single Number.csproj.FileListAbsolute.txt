@@ -1,0 +1,10 @@
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Single Number/bin/Debug/netcoreapp3.1/Single Number.deps.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Single Number/bin/Debug/netcoreapp3.1/Single Number.runtimeconfig.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Single Number/bin/Debug/netcoreapp3.1/Single Number.runtimeconfig.dev.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Single Number/bin/Debug/netcoreapp3.1/Single Number.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Single Number/bin/Debug/netcoreapp3.1/Single Number.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Single Number/obj/Debug/netcoreapp3.1/Single Number.csprojAssemblyReference.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Single Number/obj/Debug/netcoreapp3.1/Single Number.AssemblyInfoInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Single Number/obj/Debug/netcoreapp3.1/Single Number.AssemblyInfo.cs
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Single Number/obj/Debug/netcoreapp3.1/Single Number.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Hash Table/Single Number/obj/Debug/netcoreapp3.1/Single Number.pdb

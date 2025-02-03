@@ -1,0 +1,15 @@
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Maximum Number of Words Found in Sentences/bin/Debug/net5.0/Maximum Number of Words Found in Sentences.deps.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Maximum Number of Words Found in Sentences/bin/Debug/net5.0/Maximum Number of Words Found in Sentences.runtimeconfig.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Maximum Number of Words Found in Sentences/bin/Debug/net5.0/Maximum Number of Words Found in Sentences.runtimeconfig.dev.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Maximum Number of Words Found in Sentences/bin/Debug/net5.0/Maximum Number of Words Found in Sentences.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Maximum Number of Words Found in Sentences/bin/Debug/net5.0/ref/Maximum Number of Words Found in Sentences.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Maximum Number of Words Found in Sentences/bin/Debug/net5.0/Maximum Number of Words Found in Sentences.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Maximum Number of Words Found in Sentences/obj/Debug/net5.0/Maximum Number of Words Found in Sentences.csproj.AssemblyReference.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Maximum Number of Words Found in Sentences/obj/Debug/net5.0/Maximum Number of Words Found in Sentences.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Maximum Number of Words Found in Sentences/obj/Debug/net5.0/Maximum Number of Words Found in Sentences.AssemblyInfoInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Maximum Number of Words Found in Sentences/obj/Debug/net5.0/Maximum Number of Words Found in Sentences.AssemblyInfo.cs
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Maximum Number of Words Found in Sentences/obj/Debug/net5.0/Maximum Number of Words Found in Sentences.csproj.CoreCompileInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Maximum Number of Words Found in Sentences/obj/Debug/net5.0/Maximum Number of Words Found in Sentences.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Maximum Number of Words Found in Sentences/obj/Debug/net5.0/ref/Maximum Number of Words Found in Sentences.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Maximum Number of Words Found in Sentences/obj/Debug/net5.0/Maximum Number of Words Found in Sentences.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Maximum Number of Words Found in Sentences/obj/Debug/net5.0/Maximum Number of Words Found in Sentences.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Search Insert Position/1.0.0": {
+        "runtime": {
+          "Search Insert Position.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Search Insert Position/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

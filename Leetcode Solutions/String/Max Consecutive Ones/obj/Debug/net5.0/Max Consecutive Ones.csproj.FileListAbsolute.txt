@@ -1,0 +1,15 @@
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Max Consecutive Ones/bin/Debug/net5.0/Max Consecutive Ones.deps.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Max Consecutive Ones/bin/Debug/net5.0/Max Consecutive Ones.runtimeconfig.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Max Consecutive Ones/bin/Debug/net5.0/Max Consecutive Ones.runtimeconfig.dev.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Max Consecutive Ones/bin/Debug/net5.0/Max Consecutive Ones.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Max Consecutive Ones/bin/Debug/net5.0/ref/Max Consecutive Ones.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Max Consecutive Ones/bin/Debug/net5.0/Max Consecutive Ones.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Max Consecutive Ones/obj/Debug/net5.0/Max Consecutive Ones.csproj.AssemblyReference.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Max Consecutive Ones/obj/Debug/net5.0/Max Consecutive Ones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Max Consecutive Ones/obj/Debug/net5.0/Max Consecutive Ones.AssemblyInfoInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Max Consecutive Ones/obj/Debug/net5.0/Max Consecutive Ones.AssemblyInfo.cs
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Max Consecutive Ones/obj/Debug/net5.0/Max Consecutive Ones.csproj.CoreCompileInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Max Consecutive Ones/obj/Debug/net5.0/Max Consecutive Ones.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Max Consecutive Ones/obj/Debug/net5.0/ref/Max Consecutive Ones.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Max Consecutive Ones/obj/Debug/net5.0/Max Consecutive Ones.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/String/Max Consecutive Ones/obj/Debug/net5.0/Max Consecutive Ones.genruntimeconfig.cache

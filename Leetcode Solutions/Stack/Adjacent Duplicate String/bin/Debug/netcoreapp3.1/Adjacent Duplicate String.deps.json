@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Adjacent Duplicate String/1.0.0": {
+        "runtime": {
+          "Adjacent Duplicate String.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Adjacent Duplicate String/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

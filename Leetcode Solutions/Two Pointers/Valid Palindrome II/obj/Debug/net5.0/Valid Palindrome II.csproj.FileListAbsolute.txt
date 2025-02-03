@@ -1,0 +1,15 @@
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome II/bin/Debug/net5.0/Valid Palindrome II.deps.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome II/bin/Debug/net5.0/Valid Palindrome II.runtimeconfig.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome II/bin/Debug/net5.0/Valid Palindrome II.runtimeconfig.dev.json
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome II/bin/Debug/net5.0/Valid Palindrome II.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome II/bin/Debug/net5.0/ref/Valid Palindrome II.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome II/bin/Debug/net5.0/Valid Palindrome II.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome II/obj/Debug/net5.0/Valid Palindrome II.csproj.AssemblyReference.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome II/obj/Debug/net5.0/Valid Palindrome II.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome II/obj/Debug/net5.0/Valid Palindrome II.AssemblyInfoInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome II/obj/Debug/net5.0/Valid Palindrome II.AssemblyInfo.cs
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome II/obj/Debug/net5.0/Valid Palindrome II.csproj.CoreCompileInputs.cache
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome II/obj/Debug/net5.0/Valid Palindrome II.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome II/obj/Debug/net5.0/ref/Valid Palindrome II.dll
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome II/obj/Debug/net5.0/Valid Palindrome II.pdb
+/Users/cherrys/Desktop/Developer/DataStructures/VS Code/Two Pointers/Valid Palindrome II/obj/Debug/net5.0/Valid Palindrome II.genruntimeconfig.cache
