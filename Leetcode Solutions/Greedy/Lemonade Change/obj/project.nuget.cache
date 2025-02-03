@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mY4E1ZtfxdQ=",
+  "success": true,
+  "projectFilePath": "Z:\\Desktop\\Developer\\DataStructures\\VS Code\\Greedy\\Lemonade Change\\Lemonade Change.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cherrys\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\cherrys\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\cherrys\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\5.0.17\\microsoft.netcore.app.host.win-arm64.5.0.17.nupkg.sha512",
+    "C:\\Users\\cherrys\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
