@@ -20,8 +20,7 @@ class Program
             else 
             {
                 Console.WriteLine(nums.Length);
-            }  
-                      
+            }                        
             break;
 
         }   
