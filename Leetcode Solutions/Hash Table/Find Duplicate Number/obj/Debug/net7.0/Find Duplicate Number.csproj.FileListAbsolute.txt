@@ -1,0 +1,15 @@
+/Users/cherrys/Desktop/Find Duplicate Number/bin/Debug/net7.0/Find Duplicate Number
+/Users/cherrys/Desktop/Find Duplicate Number/bin/Debug/net7.0/Find Duplicate Number.deps.json
+/Users/cherrys/Desktop/Find Duplicate Number/bin/Debug/net7.0/Find Duplicate Number.runtimeconfig.json
+/Users/cherrys/Desktop/Find Duplicate Number/bin/Debug/net7.0/Find Duplicate Number.dll
+/Users/cherrys/Desktop/Find Duplicate Number/bin/Debug/net7.0/Find Duplicate Number.pdb
+/Users/cherrys/Desktop/Find Duplicate Number/obj/Debug/net7.0/Find Duplicate Number.csproj.AssemblyReference.cache
+/Users/cherrys/Desktop/Find Duplicate Number/obj/Debug/net7.0/Find Duplicate Number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherrys/Desktop/Find Duplicate Number/obj/Debug/net7.0/Find Duplicate Number.AssemblyInfoInputs.cache
+/Users/cherrys/Desktop/Find Duplicate Number/obj/Debug/net7.0/Find Duplicate Number.AssemblyInfo.cs
+/Users/cherrys/Desktop/Find Duplicate Number/obj/Debug/net7.0/Find Duplicate Number.csproj.CoreCompileInputs.cache
+/Users/cherrys/Desktop/Find Duplicate Number/obj/Debug/net7.0/Find Duplicate Number.dll
+/Users/cherrys/Desktop/Find Duplicate Number/obj/Debug/net7.0/refint/Find Duplicate Number.dll
+/Users/cherrys/Desktop/Find Duplicate Number/obj/Debug/net7.0/Find Duplicate Number.pdb
+/Users/cherrys/Desktop/Find Duplicate Number/obj/Debug/net7.0/Find Duplicate Number.genruntimeconfig.cache
+/Users/cherrys/Desktop/Find Duplicate Number/obj/Debug/net7.0/ref/Find Duplicate Number.dll
