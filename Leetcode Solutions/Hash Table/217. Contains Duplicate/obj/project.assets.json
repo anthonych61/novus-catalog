@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cherrys/Desktop/217. Contains Duplicate/217. Contains Duplicate.csproj",
+      "projectUniqueName": "/Users/cherrys/Desktop/github_temp/Repository/Leetcode Solutions/Hash Table/217. Contains Duplicate/217. Contains Duplicate.csproj",
       "projectName": "217. Contains Duplicate",
-      "projectPath": "/Users/cherrys/Desktop/217. Contains Duplicate/217. Contains Duplicate.csproj",
+      "projectPath": "/Users/cherrys/Desktop/github_temp/Repository/Leetcode Solutions/Hash Table/217. Contains Duplicate/217. Contains Duplicate.csproj",
       "packagesPath": "/Users/cherrys/.nuget/packages/",
-      "outputPath": "/Users/cherrys/Desktop/217. Contains Duplicate/obj/",
+      "outputPath": "/Users/cherrys/Desktop/github_temp/Repository/Leetcode Solutions/Hash Table/217. Contains Duplicate/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cherrys/.nuget/NuGet/NuGet.Config"
