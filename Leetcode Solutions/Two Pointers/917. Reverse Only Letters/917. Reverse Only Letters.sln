@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "917. Reverse Only Letters", "917. Reverse Only Letters.csproj", "{F28099A3-A5DF-C7BD-E810-FFDB3AEB723E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F28099A3-A5DF-C7BD-E810-FFDB3AEB723E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28099A3-A5DF-C7BD-E810-FFDB3AEB723E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28099A3-A5DF-C7BD-E810-FFDB3AEB723E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28099A3-A5DF-C7BD-E810-FFDB3AEB723E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0AE6AF3-B90E-4D64-B89D-F598065F89DD}
+	EndGlobalSection
+EndGlobal
