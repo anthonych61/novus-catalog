@@ -1,0 +1,15 @@
+/Users/cherrys/Desktop/2810. Faulty Keyboard/bin/Debug/net7.0/2810. Faulty Keyboard
+/Users/cherrys/Desktop/2810. Faulty Keyboard/bin/Debug/net7.0/2810. Faulty Keyboard.deps.json
+/Users/cherrys/Desktop/2810. Faulty Keyboard/bin/Debug/net7.0/2810. Faulty Keyboard.runtimeconfig.json
+/Users/cherrys/Desktop/2810. Faulty Keyboard/bin/Debug/net7.0/2810. Faulty Keyboard.dll
+/Users/cherrys/Desktop/2810. Faulty Keyboard/bin/Debug/net7.0/2810. Faulty Keyboard.pdb
+/Users/cherrys/Desktop/2810. Faulty Keyboard/obj/Debug/net7.0/2810. Faulty Keyboard.csproj.AssemblyReference.cache
+/Users/cherrys/Desktop/2810. Faulty Keyboard/obj/Debug/net7.0/2810. Faulty Keyboard.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherrys/Desktop/2810. Faulty Keyboard/obj/Debug/net7.0/2810. Faulty Keyboard.AssemblyInfoInputs.cache
+/Users/cherrys/Desktop/2810. Faulty Keyboard/obj/Debug/net7.0/2810. Faulty Keyboard.AssemblyInfo.cs
+/Users/cherrys/Desktop/2810. Faulty Keyboard/obj/Debug/net7.0/2810. Faulty Keyboard.csproj.CoreCompileInputs.cache
+/Users/cherrys/Desktop/2810. Faulty Keyboard/obj/Debug/net7.0/2810. Faulty Keyboard.dll
+/Users/cherrys/Desktop/2810. Faulty Keyboard/obj/Debug/net7.0/refint/2810. Faulty Keyboard.dll
+/Users/cherrys/Desktop/2810. Faulty Keyboard/obj/Debug/net7.0/2810. Faulty Keyboard.pdb
+/Users/cherrys/Desktop/2810. Faulty Keyboard/obj/Debug/net7.0/2810. Faulty Keyboard.genruntimeconfig.cache
+/Users/cherrys/Desktop/2810. Faulty Keyboard/obj/Debug/net7.0/ref/2810. Faulty Keyboard.dll
