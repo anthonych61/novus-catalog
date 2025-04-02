@@ -1,0 +1,15 @@
+/Users/cherrys/Desktop/125. Valid Palindrome/bin/Debug/net7.0/125. Valid Palindrome
+/Users/cherrys/Desktop/125. Valid Palindrome/bin/Debug/net7.0/125. Valid Palindrome.deps.json
+/Users/cherrys/Desktop/125. Valid Palindrome/bin/Debug/net7.0/125. Valid Palindrome.runtimeconfig.json
+/Users/cherrys/Desktop/125. Valid Palindrome/bin/Debug/net7.0/125. Valid Palindrome.dll
+/Users/cherrys/Desktop/125. Valid Palindrome/bin/Debug/net7.0/125. Valid Palindrome.pdb
+/Users/cherrys/Desktop/125. Valid Palindrome/obj/Debug/net7.0/125. Valid Palindrome.csproj.AssemblyReference.cache
+/Users/cherrys/Desktop/125. Valid Palindrome/obj/Debug/net7.0/125. Valid Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherrys/Desktop/125. Valid Palindrome/obj/Debug/net7.0/125. Valid Palindrome.AssemblyInfoInputs.cache
+/Users/cherrys/Desktop/125. Valid Palindrome/obj/Debug/net7.0/125. Valid Palindrome.AssemblyInfo.cs
+/Users/cherrys/Desktop/125. Valid Palindrome/obj/Debug/net7.0/125. Valid Palindrome.csproj.CoreCompileInputs.cache
+/Users/cherrys/Desktop/125. Valid Palindrome/obj/Debug/net7.0/125. Valid Palindrome.dll
+/Users/cherrys/Desktop/125. Valid Palindrome/obj/Debug/net7.0/refint/125. Valid Palindrome.dll
+/Users/cherrys/Desktop/125. Valid Palindrome/obj/Debug/net7.0/125. Valid Palindrome.pdb
+/Users/cherrys/Desktop/125. Valid Palindrome/obj/Debug/net7.0/125. Valid Palindrome.genruntimeconfig.cache
+/Users/cherrys/Desktop/125. Valid Palindrome/obj/Debug/net7.0/ref/125. Valid Palindrome.dll
