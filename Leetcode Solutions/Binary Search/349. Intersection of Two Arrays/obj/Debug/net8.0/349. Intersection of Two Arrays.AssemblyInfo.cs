@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("349. Intersection of Two Arrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6e9bb4925107367d5b9c76be8ad942d44fb5db0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d0e579aa7592db9597482835429307a4595077f")]
 [assembly: System.Reflection.AssemblyProductAttribute("349. Intersection of Two Arrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("349. Intersection of Two Arrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
