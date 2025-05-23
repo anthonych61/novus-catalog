@@ -1,9 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>Substrings_of_Size_Three_with_Distinct_Characters</RootNamespace>
-  </PropertyGroup>
-
-</Project>

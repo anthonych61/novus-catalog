@@ -1,9 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>N_Repeated_Element_in_Size_2N_Array</RootNamespace>
-  </PropertyGroup>
-
-</Project>
